@@ -1,0 +1,13 @@
+aggregation operation  :-
+an expression which return a single value called aggregation operation 
+eg. 
+1. min()
+2. max()
+3. count()
+4. sum()     
+5. average()   ==> sum/count
+6. median()
+7. mode()
+8. SD()
+9. variance()
+10. percentile

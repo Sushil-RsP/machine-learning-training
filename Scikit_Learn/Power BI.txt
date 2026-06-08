@@ -1,0 +1,12 @@
+# Building blocks of Power BI 
+1. Dataset -> A collection of Observations
+2. Visualization -> Graphical representation of data
+3. Report -> A details visualization to solve the problem statement
+4. Dashboard -> A high-level overview of multiple report
+5. Tiles -> a snapshot of data pinned to your dashboard
+
+ETL -> Power Query Editor -> It is an ETL (Extract, Transform, Load) tool in Power BI
+
+DAX -> Data Analysis Expressions
+
+connectors are the micro-application which help to get data form sources
